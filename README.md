@@ -78,6 +78,15 @@ advancing technology solutions.
 
 ---
 
+<!-- Medium Article -->
+<h2 align="center">Read Articles</h2>
+<p align="center">
+  <a href="https://medium.com/@pritanshudwivedi" target="_blank">
+  <img  src="https://img.shields.io/badge/Medium-Read%20Article-1A8917?style=for-the-badge&logo=medium&logoColor=white"
+    alt="Read my Medium Article"/>
+  </a>
+</p>
+
 <!-- Connect with Me -->
 <h2 align="center">📢 To know More or Connect with Me</h2>
 <p align="center">
@@ -87,7 +96,7 @@ advancing technology solutions.
   <a href="https://pritanshud.github.io">
   <img 
     alt="Portfolio" 
-    src="https://img.shields.io/badge/Portfolio-%20-0077B5?style=for-the-badge&logo=world&logoColor=white"
+    src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white"
   />
 </a>
 </p>
