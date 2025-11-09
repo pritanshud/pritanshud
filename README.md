@@ -1,6 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Pritanshu Dwivedi</h1>
-<h3 align="center">A Passionate Software Developer | Creating Impactful & Scalable Web Solutions</h3>
+<h3 align="center">A Passionate Software Developer</h3>
+<h2 align="center">I write code & collect souvenir - discovering how the two t's (travel & tech) shape our worlds.</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pritanshud&label=Profile%20views&color=blue&style=flat-square" alt="pritanshud" />
@@ -78,7 +79,7 @@ advancing technology solutions.
 ---
 
 <!-- Connect with Me -->
-<h2 align="center">📢 Connect with Me</h2>
+<h2 align="center">📢 To know More or Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/pritanshu-dwivedi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
